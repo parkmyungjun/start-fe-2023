@@ -1,5 +1,17 @@
+// git 연동
+git init
+
+git git remote add origin 깃허브주소
+
+
+
+// git 푸쉬
 1. git add .
 
 2. git commit -m "커밋내용"
 
 3. git push
+
+// web 연동
+
+serve
